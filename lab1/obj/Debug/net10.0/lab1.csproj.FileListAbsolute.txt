@@ -1,0 +1,14 @@
+C:\КМС\lab1\bin\Debug\net10.0\lab1.exe
+C:\КМС\lab1\bin\Debug\net10.0\lab1.deps.json
+C:\КМС\lab1\bin\Debug\net10.0\lab1.runtimeconfig.json
+C:\КМС\lab1\bin\Debug\net10.0\lab1.dll
+C:\КМС\lab1\bin\Debug\net10.0\lab1.pdb
+C:\КМС\lab1\obj\Debug\net10.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\КМС\lab1\obj\Debug\net10.0\lab1.AssemblyInfoInputs.cache
+C:\КМС\lab1\obj\Debug\net10.0\lab1.AssemblyInfo.cs
+C:\КМС\lab1\obj\Debug\net10.0\lab1.csproj.CoreCompileInputs.cache
+C:\КМС\lab1\obj\Debug\net10.0\lab1.dll
+C:\КМС\lab1\obj\Debug\net10.0\refint\lab1.dll
+C:\КМС\lab1\obj\Debug\net10.0\lab1.pdb
+C:\КМС\lab1\obj\Debug\net10.0\lab1.genruntimeconfig.cache
+C:\КМС\lab1\obj\Debug\net10.0\ref\lab1.dll
